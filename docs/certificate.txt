@@ -2,4 +2,4 @@ Certification registry: Acme Metals Ltd
 
 Certificate Q-2231, ISO 9001 quality management.
 Holder: Acme Metals Ltd.
-Status: VALID. Issued 2025-03-01, valid until 2028-02-28.
+Status: REVOKED on 2026-10-18 after a failed surveillance audit. The certificate is no longer valid.
