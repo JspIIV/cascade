@@ -1,0 +1,11 @@
+{
+  "name": "cascade",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cascade: a claim stands only while everything beneath it stands. Facts are checked against a public source by a GenLayer round; when one falls, every claim built on it falls too",
+  "type": "module",
+  "license": "AGPL-3.0-or-later",
+  "repository": { "type": "git", "url": "https://github.com/JspIIV/cascade.git" },
+  "dependencies": { "ethers": "^6.17.0", "genlayer-js": "1.1.8" },
+  "scripts": { "test": "python tests/cascade_rules.py" }
+}
